@@ -3,6 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  * Clase TareasUser representa una ventana gráfica para mostrar tareas asignadas a un usuario.
  */
+
 package ventanas;
 import javax.swing.table.DefaultTableModel;//para gestionar el modelo de datos de las tablas.
 import java.io.*;//para gestionar el modelo de datos de las tablas.
