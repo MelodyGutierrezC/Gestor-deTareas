@@ -3,6 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  * Clase Usuarios que extiende JFrame para gestionar la interfaz de creación y manejo de usuarios.
  */
+
 package ventanas;
 
 import java.io.BufferedWriter;//Se utiliza para escribir texto de manera eficiente en un archivo.
