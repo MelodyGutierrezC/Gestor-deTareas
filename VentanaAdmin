@@ -3,6 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  * Clase VentanaAdmin, la cual se abre si el nuevo usuario se registra con el rol de Administrador
  */
+
 package ventanas;
 
 import java.awt.BorderLayout; // Esta clase es parte de la biblioteca AWT y se utiliza para administrar el diseño de los componentes en una ventana.
