@@ -4,6 +4,7 @@
  * Clase CrearTarea donde el administrador puede crear una tarea y asignar a un usuario que este registrado
  * En dicha creacion de tarea se puede asignarle un nobre, una descripcion, estado de la tarea, prioridad, fecha de inicio y fecha de entrega
  */
+
 package ventanas;
 import java.io.BufferedWriter;// Permite escribir texto en un flujo de salida de manera eficiente mediante un búfer.
 import java.io.File; // Representa un archivo o directorio del sistema de archivos.
