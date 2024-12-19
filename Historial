@@ -3,6 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  *Clase Historial para mostrar las tareas entregadas en una tabla.
  */
+
 package ventanas;
 import javax.swing.table.DefaultTableModel;
 import java.io.*;
