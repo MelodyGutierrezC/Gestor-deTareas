@@ -1,5 +1,28 @@
 # Gestor-deTareas
 
+Manual de Usuario
+
+                                                         Proyecto: Gestor de Tareas
+                                                         Revisión: final
+
+
+                                                         MATERIA
+                                                        Taller de Programación
+                                                         
+                                                         INTEGRANTES:
+                                                         Rivera Picon Carlos  Jhoel
+                                                         Gutierrez Caero Melody Alejandra
+                                                         Cayo Huañarraya Anahy 
+
+
+
+
+
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/fb905a33-0b3e-4678-a5b1-d76e7c97ec7a)
 
 Contenido 
