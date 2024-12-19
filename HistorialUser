@@ -4,6 +4,7 @@
  * Clase HistorialUser que representa el historial de tareas entregadas de un usuario.
  * Permite cargar y visualizar las tareas asignadas a un usuario específico desde un archivo.
  */
+
 package ventanas;
 
 import java.io.*;//Proporciona clases para manejar operaciones de entrada/salida, como lectura de archivos.
