@@ -3,6 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  * Ventana que muestra la lista de usuarios y permite interactuar con ella.
  */
+
 package ventanas;
 
 import javax.swing.table.DefaultTableModel;//Permite manipular los datos de una tabla en Swing.
