@@ -8,6 +8,7 @@ MATERIA
 Taller de Programación
                                                          
 INTEGRANTES:
+
 Rivera Picon Carlos  Jhoel
 
 Gutierrez Caero Melody Alejandra
@@ -39,7 +40,7 @@ Contenido
 
 3.5	   Lista de tarea del usuario .............................................................8
 
-        3.6 Mostar tarea de usuario.......................................................................9
+3.6 Mostar tarea de usuario.......................................................................9
 
 4	Información adicional .............................................................................. 10
 
