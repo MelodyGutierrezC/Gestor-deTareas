@@ -3,6 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  * Clase Registro, tiene la funcionalidad de registrar a nuevos usuarios, guardando los datos en un archivo txt.
  */
+
 package ventanas;
 
 /**
