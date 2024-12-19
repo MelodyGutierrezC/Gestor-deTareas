@@ -1,24 +1,16 @@
 # Gestor-deTareas
 
 Manual de Usuario
+Proyecto: Gestor de Tareas
+Revisión: final
 
-                                                         Proyecto: Gestor de Tareas
-                                                         Revisión: final
-
-
-                                                         MATERIA
-                                                        Taller de Programación
+MATERIA
+Taller de Programación
                                                          
-                                                         INTEGRANTES:
-                                                         Rivera Picon Carlos  Jhoel
-                                                         Gutierrez Caero Melody Alejandra
-                                                         Cayo Huañarraya Anahy 
-
-
-
-
-
-
+INTEGRANTES:
+Rivera Picon Carlos  Jhoel
+Gutierrez Caero Melody Alejandra
+Cayo Huañarraya Anahy 
 
 
 
@@ -115,6 +107,8 @@ Descarga e instala NetBeans IDE desde NetBeans.
 
 
 
+
+
 ![image](https://github.com/user-attachments/assets/e7f21f38-7d8c-4f89-8f71-2d4a211ff542)
 
 
@@ -123,6 +117,7 @@ Escoges la versión que gustes y la capacididad de tu computador
 PASO B 
 
 Una vez ya descagramos procedemos a instalar 
+
 
 ![image](https://github.com/user-attachments/assets/7d07513f-1e5c-4a38-8772-92a6fce7cecf)
 
@@ -133,6 +128,7 @@ PASO C
 Ya instalada y ponemos en función 
 
 ![image](https://github.com/user-attachments/assets/0cc60fa6-ae91-42dc-abc6-3fbfd65e4ac9)
+
 
 ![image](https://github.com/user-attachments/assets/d5d180f3-c0a7-46b6-9c16-bff3e55bf05f)
 
@@ -148,6 +144,7 @@ Al iniciar sesión en el Gestor de Tareas, se solicita al usuario ingresar su no
 
 
 
+
 ![image](https://github.com/user-attachments/assets/477b8f81-600f-439e-9f81-04cf4f51488a)
 
 
@@ -158,12 +155,14 @@ En el sistema, el Administrador tiene la capacidad de crear usuarios, ya sea com
 ![image](https://github.com/user-attachments/assets/1e30b1c6-1a9b-4b98-863d-696995a9e793)
 
 
+
 3.2 CAPTURA MOSTRAR USUARIO 
 
 El sistema dispone de una lista de usuarios, que muestra los nombres de todos los Usuarios y Administradores registrados en el sistema. Esta lista permite al Administrador visualizar de manera organizada a los usuarios activos, tanto los que tienen rol de Administrador como los que tienen rol de Usuario. A través de esta vista, el Administrador puede realizar un seguimiento de los usuarios registrados, gestionando y controlando el acceso y roles asignados a cada uno, lo que facilita el manejo del sistema y la asignación de tareas.
 
 
 ![image](https://github.com/user-attachments/assets/ab7b0e5c-2ac3-4e41-90f6-7439837047c6)
+
 
 
 
@@ -176,6 +175,7 @@ El sistema cuenta con una opción de crear tarea, que permite al Administrador a
 
 
 
+
 3.4 LISTA DE TAREAS DE USUSARIO 
 
 Después de crear una tarea, el Administrador puede ver la lista de tareas asignadas a cada usuario. Esta lista muestra todas las tareas que han sido asignadas, con un sistema de colores que indica el estado de la tarea (por ejemplo, alto , media, baja). Este sistema visual facilita el seguimiento del avance de cada tarea. Además, como se puede observar en la imagen, los colores proporcionan una forma rápida de identificar el estado de las tareas, mejorando la eficiencia en la gestión y seguimiento de las actividades asignadas.
@@ -185,9 +185,11 @@ Después de crear una tarea, el Administrador puede ver la lista de tareas asign
 ![image](https://github.com/user-attachments/assets/b934e36d-e699-4857-9ecb-abfd6622a84b)
 
 
+
 El historial en el sistema permite tanto al Administrador como al Usuario consultar un registro detallado de todas las tareas realizadas. Este historial muestra un listado de tareas anteriores, incluyendo información como el nombre de la tarea, su estado (completada, pendiente, etc.), la fecha de asignación y la fecha de finalización. Esto proporciona una visión clara del progreso de las tareas a lo largo del tiempo, permitiendo hacer un seguimiento de las actividades pasadas y evaluar el rendimiento de los usuarios
 
 ![image](https://github.com/user-attachments/assets/4cf18703-5696-410b-88ab-adbbb3f4d8c5)
+
 
 
 3.5 MOSTRAR TAREA DE USUARIO 
@@ -197,7 +199,10 @@ El usuario tiene acceso a una vista donde puede ver las tareas asignadas. En est
 ![image](https://github.com/user-attachments/assets/6eaca185-98c1-468f-8ba0-6e7183aed6c8)
 
 
+
+
 ![image](https://github.com/user-attachments/assets/fd5eb709-872d-4558-b09d-c85288ccb29f)
+
 
 
 4.	CONCLUSION 
