@@ -4,6 +4,7 @@
  * Clase Login el cual te permite ingresar al programa
  * El cual tambien te permite registrarte si es que aun no tienes un Usuario para ingresar
  */
+
 package ventanas;
 import java.awt.Color;//Permite manejar colores para los componentes gráficos.
 import javax.swing.*; //Proporciona clases para construir interfaces gráficas.
