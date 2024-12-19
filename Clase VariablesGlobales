@@ -1,0 +1,44 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package ventanas;
+
+/**
+ * Esta clase contiene variables globales estáticas que almacenan el nombre de usuario del administrador (adminUsername) y el nombre del usuario actual (usuarioActual).
+ * Estas variables pueden ser accedidas desde cualquier parte del programa.
+ * @author MELODY
+ */
+public class variablesGlobales {
+   public static String adminUsername;
+   public static String usuarioActual;
+/**
+ * Este método devuelve el nombre de usuario del administrador almacenado en la variable estática adminUsername.
+ * @return String  El nombre de usuario del administrador.
+ */   
+    public static String getAdminUsername() {
+        return adminUsername;
+    }
+/**
+ * Este método establece el valor de la variable estática adminUsername con el nombre de usuario del administrador proporcionado.
+ * @param nombreAdmin (String) - El nombre de usuario del administrador.
+ */
+    public static void setAdminUsername(String nombreAdmin) {
+        variablesGlobales.adminUsername = nombreAdmin;
+    }
+/**
+ * Este método devuelve el nombre de usuario del usuario actual almacenado en la variable estática usuarioActual.
+ * @return String - El nombre de usuario del usuario actual. 
+ */    
+    public static String getUsuarioActual() {
+        return usuarioActual;
+    }
+/**
+ * Este método establece el valor de la variable estática usuarioActual con el nombre de usuario del usuario actual proporcionado.
+ * 
+ * @param nombreUsuario (String) - El nombre de usuario del usuario actual.
+ */
+    public static void setUsuarioActual(String nombreUsuario) {
+        variablesGlobales.usuarioActual = nombreUsuario;
+    }
+}
