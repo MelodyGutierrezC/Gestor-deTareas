@@ -9,7 +9,9 @@ Taller de Programación
                                                          
 INTEGRANTES:
 Rivera Picon Carlos  Jhoel
+
 Gutierrez Caero Melody Alejandra
+
 Cayo Huañarraya Anahy 
 
 
