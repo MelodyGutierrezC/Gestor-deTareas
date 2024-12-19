@@ -1,0 +1,36 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package ventanas;
+
+/**
+ * Esta clase representa una tarea con tres propiedades: nombre, descripcion y prioridad. Cada tarea tiene un nombre, una descripción y una prioridad asociada
+ * @author
+ */
+public class Tarea {
+    private String nombre;
+    private String descripcion;
+    private String prioridad;
+/**
+ * Constructor que inicializa una nueva instancia de Tarea con los valores de nombre, descripción y prioridad proporcionados.
+ * 
+ * @param nombre (String): El nombre de la tarea.
+ * @param descripcion (String): La descripción de la tarea.
+ * @param prioridad (String): La prioridad de la tarea (por ejemplo, "Alta", "Media", "Baja").
+ */
+    public Tarea(String nombre, String descripcion, String prioridad) {
+        this.nombre = nombre;
+        this.descripcion = descripcion;
+        this.prioridad = prioridad;
+    }
+/**
+ * Método que devuelve una representación en forma de cadena (String) de la tarea, con el formato "Nombre: nombre, Descripción: descripcion, Prioridad: prioridad". Este método es útil para imprimir o mostrar la información de una tarea en un formato legible.
+ * 
+ * @return String - Una cadena que representa la tarea con su nombre, descripción y prioridad.
+ */
+    @Override
+    public String toString() {
+        return "Nombre: " + nombre + ", Descripción: " + descripcion + ", Prioridad: " + prioridad;
+    }
+}
